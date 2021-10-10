@@ -82,7 +82,7 @@ class UserController extends Controller
                 'phone.required'=>'Please put your phone number',
                 'phone.regex'=>'Phone number must be numbers',
                 'password.required'=>'Please put your password',
-                'password.min'=>'Name must be greater than 8 charcters'
+                'password.min'=>'Password must be greater than 8 charcters'
             
                
 
